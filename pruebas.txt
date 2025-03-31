@@ -1,0 +1,32 @@
+==================================================
+PRUEBAS DEL SISTEMA DE BÚSQUEDA INTELIGENTE (A*)
+Fecha de ejecución: 2025-03-30 22:09:13
+==================================================
+
+🟩 Caso 1: Ruta desde A hasta F
+Ruta óptima: Portal Norte -> Calle 72 -> Calle 26 -> Universidades
+Costo total: 14
+Nota: Ruta pasa por estación congestionada C (+3)
+--------------------------------------------------
+
+🟩 Caso 2: Ruta desde A hasta D
+Ruta óptima: Portal Norte -> Calle 72 -> Calle 26
+Costo total: 9
+Nota: Ruta pasa por estación congestionada C (+3)
+--------------------------------------------------
+
+🟩 Caso 3: Ruta desde A hasta E
+Ruta óptima: Portal Norte -> Calle 72 -> Calle 19
+Costo total: 12
+Nota: Ruta pasa por estación congestionada C (+3)
+--------------------------------------------------
+
+🟩 Caso 4: Ruta desde B hasta F
+Ruta óptima: Héroes -> Calle 26 -> Universidades
+Costo total: 10
+--------------------------------------------------
+
+🟩 Caso 5: Ruta desde A hasta Z
+Resultado: No se encontró una ruta válida
+--------------------------------------------------
+
