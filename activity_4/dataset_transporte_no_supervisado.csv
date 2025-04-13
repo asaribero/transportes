@@ -1,0 +1,121 @@
+origen,destino,duracion_min,congestion,tipo_ruta,clima,hora_dia
+Tercer Milenio,Héroes,20,Media,Alterna,Soleado,Valle
+Calle 26,Universidades,18,Alta,Alterna,Nublado,Pico
+Suba,Banderas,21,Baja,Alterna,Lluvia,Valle
+Calle 26,Portal Norte,21,Baja,Directa,Soleado,Pico
+Portal Norte,Calle 19,14,Baja,Directa,Soleado,Pico
+Universidades,Héroes,21,Alta,Directa,Lluvia,Valle
+San Mateo,Suba,19,Baja,Alterna,Soleado,Valle
+Portal Norte,Calle 72,11,Media,Alterna,Lluvia,Pico
+Portal Norte,San Mateo,20,Baja,Alterna,Soleado,Pico
+Portal Norte,Héroes,35,Alta,Directa,Nublado,Pico
+Tercer Milenio,Universidades,22,Alta,Directa,Soleado,Valle
+Tercer Milenio,Universidades,25,Media,Alterna,Lluvia,Pico
+Suba,San Mateo,15,Alta,Directa,Nublado,Pico
+Portal Norte,Suba,14,Alta,Directa,Lluvia,Valle
+Banderas,Tercer Milenio,29,Media,Directa,Nublado,Valle
+Tercer Milenio,Portal Norte,19,Alta,Directa,Soleado,Valle
+San Mateo,Tercer Milenio,30,Media,Directa,Soleado,Valle
+Calle 72,San Mateo,17,Baja,Directa,Soleado,Valle
+San Mateo,Banderas,32,Media,Alterna,Soleado,Pico
+San Mateo,Calle 72,13,Baja,Alterna,Soleado,Pico
+Calle 19,Portal Norte,9,Alta,Directa,Nublado,Valle
+Banderas,Universidades,23,Alta,Directa,Nublado,Valle
+Universidades,San Mateo,21,Baja,Directa,Nublado,Valle
+Calle 19,Calle 72,11,Baja,Directa,Soleado,Pico
+Tercer Milenio,Suba,31,Media,Alterna,Soleado,Valle
+Calle 19,Banderas,16,Media,Alterna,Soleado,Pico
+Héroes,Calle 72,34,Media,Alterna,Soleado,Valle
+Tercer Milenio,Suba,14,Media,Directa,Soleado,Valle
+Héroes,Suba,7,Baja,Directa,Soleado,Valle
+Calle 26,Tercer Milenio,10,Media,Directa,Nublado,Pico
+Héroes,Tercer Milenio,33,Baja,Directa,Soleado,Valle
+Calle 26,Suba,33,Alta,Directa,Soleado,Valle
+San Mateo,Banderas,8,Alta,Alterna,Soleado,Valle
+Suba,Calle 72,11,Alta,Alterna,Lluvia,Valle
+Suba,Calle 72,17,Media,Alterna,Nublado,Pico
+San Mateo,Héroes,34,Alta,Directa,Lluvia,Pico
+Héroes,San Mateo,25,Baja,Alterna,Nublado,Valle
+Suba,Tercer Milenio,9,Media,Alterna,Lluvia,Valle
+Calle 72,Portal Norte,33,Baja,Directa,Lluvia,Valle
+Suba,Calle 19,15,Alta,Alterna,Lluvia,Pico
+Calle 26,Suba,12,Baja,Alterna,Soleado,Valle
+Banderas,Suba,19,Baja,Directa,Nublado,Valle
+Tercer Milenio,Universidades,13,Media,Alterna,Soleado,Valle
+Suba,Héroes,27,Baja,Alterna,Soleado,Pico
+Calle 72,Calle 26,31,Media,Alterna,Soleado,Pico
+Héroes,Calle 72,19,Media,Directa,Nublado,Pico
+Universidades,Suba,31,Media,Directa,Nublado,Pico
+Calle 72,San Mateo,18,Baja,Alterna,Nublado,Pico
+Calle 19,Tercer Milenio,33,Alta,Directa,Nublado,Valle
+Banderas,Universidades,12,Alta,Alterna,Lluvia,Pico
+San Mateo,Héroes,34,Baja,Alterna,Soleado,Pico
+Portal Norte,Héroes,24,Media,Directa,Soleado,Valle
+Banderas,Suba,33,Baja,Directa,Soleado,Valle
+Calle 19,Portal Norte,34,Media,Alterna,Lluvia,Pico
+Héroes,Tercer Milenio,8,Media,Directa,Lluvia,Valle
+Calle 26,Tercer Milenio,14,Baja,Directa,Lluvia,Pico
+Portal Norte,Calle 72,17,Alta,Directa,Nublado,Pico
+Suba,Universidades,8,Media,Directa,Nublado,Valle
+San Mateo,Calle 26,28,Baja,Directa,Nublado,Valle
+San Mateo,Portal Norte,25,Media,Alterna,Lluvia,Valle
+Banderas,Portal Norte,15,Alta,Directa,Soleado,Valle
+Calle 26,San Mateo,35,Media,Alterna,Soleado,Valle
+Suba,Calle 72,14,Alta,Directa,Nublado,Valle
+Universidades,Suba,19,Media,Alterna,Soleado,Pico
+Calle 19,Universidades,24,Alta,Directa,Soleado,Valle
+Suba,Banderas,20,Alta,Alterna,Nublado,Pico
+Tercer Milenio,Calle 26,27,Alta,Directa,Nublado,Pico
+Calle 19,Universidades,11,Media,Directa,Nublado,Valle
+Calle 19,Calle 72,17,Alta,Alterna,Soleado,Pico
+Calle 72,Calle 26,25,Baja,Directa,Lluvia,Pico
+Portal Norte,Suba,7,Media,Alterna,Lluvia,Pico
+Portal Norte,Héroes,25,Media,Directa,Nublado,Valle
+San Mateo,Calle 19,20,Media,Directa,Nublado,Pico
+Portal Norte,Tercer Milenio,31,Baja,Directa,Nublado,Valle
+Héroes,Calle 26,35,Baja,Directa,Nublado,Valle
+Calle 72,Banderas,17,Media,Alterna,Nublado,Valle
+Tercer Milenio,Calle 19,33,Baja,Alterna,Nublado,Pico
+Universidades,Tercer Milenio,9,Baja,Directa,Nublado,Pico
+Calle 72,Suba,35,Baja,Alterna,Soleado,Pico
+San Mateo,Calle 72,8,Baja,Directa,Nublado,Valle
+Portal Norte,Universidades,19,Alta,Alterna,Nublado,Valle
+Calle 72,Portal Norte,17,Alta,Directa,Nublado,Valle
+Portal Norte,Héroes,19,Baja,Alterna,Soleado,Pico
+Portal Norte,San Mateo,23,Alta,Alterna,Nublado,Pico
+Héroes,Suba,34,Baja,Directa,Lluvia,Pico
+Portal Norte,Universidades,7,Baja,Directa,Soleado,Valle
+Tercer Milenio,Calle 72,32,Media,Alterna,Lluvia,Valle
+Calle 26,Calle 19,13,Media,Alterna,Lluvia,Valle
+Universidades,Banderas,22,Alta,Alterna,Nublado,Pico
+Portal Norte,Calle 19,29,Baja,Alterna,Lluvia,Valle
+Tercer Milenio,Suba,12,Media,Alterna,Lluvia,Pico
+San Mateo,Calle 19,32,Baja,Alterna,Soleado,Pico
+Universidades,Calle 19,20,Alta,Directa,Soleado,Pico
+Portal Norte,Calle 19,35,Media,Directa,Nublado,Valle
+Calle 72,Héroes,25,Media,Alterna,Nublado,Pico
+Portal Norte,Calle 19,17,Alta,Directa,Lluvia,Pico
+Tercer Milenio,Suba,10,Baja,Alterna,Nublado,Valle
+Tercer Milenio,Suba,17,Alta,Directa,Lluvia,Pico
+Banderas,Universidades,20,Media,Alterna,Lluvia,Pico
+Tercer Milenio,Suba,35,Baja,Alterna,Nublado,Pico
+Universidades,Suba,10,Alta,Directa,Lluvia,Pico
+Universidades,Portal Norte,12,Media,Alterna,Soleado,Pico
+Suba,Universidades,18,Baja,Directa,Nublado,Valle
+Portal Norte,Tercer Milenio,35,Media,Directa,Lluvia,Valle
+San Mateo,Héroes,8,Media,Directa,Soleado,Pico
+Banderas,Calle 72,33,Alta,Directa,Nublado,Pico
+Banderas,Calle 19,7,Baja,Directa,Soleado,Pico
+Calle 19,Calle 26,14,Alta,Directa,Lluvia,Valle
+Héroes,Calle 19,29,Media,Alterna,Lluvia,Valle
+Universidades,Calle 26,26,Baja,Directa,Nublado,Valle
+Héroes,Calle 19,28,Media,Alterna,Nublado,Valle
+Suba,Universidades,35,Media,Alterna,Lluvia,Pico
+Calle 26,Portal Norte,24,Media,Alterna,Nublado,Valle
+Portal Norte,Calle 19,30,Alta,Alterna,Soleado,Pico
+Suba,Calle 72,15,Media,Directa,Nublado,Valle
+Tercer Milenio,Universidades,14,Media,Directa,Lluvia,Pico
+San Mateo,Calle 26,31,Baja,Directa,Nublado,Valle
+Universidades,Portal Norte,11,Alta,Directa,Lluvia,Pico
+Portal Norte,Héroes,10,Media,Directa,Lluvia,Valle
+Universidades,Banderas,12,Baja,Alterna,Soleado,Valle
