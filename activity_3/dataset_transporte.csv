@@ -1,0 +1,151 @@
+origen,destino,duracion_min,congestion,tipo_ruta,clima,hora_dia,clasificacion
+Portal Norte,Tercer Milenio,11,Baja,Alterna,Soleado,Pico,Rapida
+San Mateo,Héroes,8,Baja,Alterna,Lluvia,Pico,Rapida
+San Mateo,Calle 72,8,Baja,Alterna,Lluvia,Valle,Rapida
+Banderas,Calle 72,8,Baja,Alterna,Nublado,Valle,Rapida
+Portal Norte,Héroes,12,Baja,Directa,Nublado,Pico,Rapida
+Tercer Milenio,Portal Norte,11,Baja,Alterna,Lluvia,Pico,Rapida
+Calle 72,Portal Norte,8,Baja,Alterna,Lluvia,Pico,Rapida
+Banderas,Universidades,11,Baja,Alterna,Nublado,Pico,Rapida
+Banderas,Portal Norte,9,Baja,Alterna,Lluvia,Valle,Rapida
+Universidades,Héroes,7,Baja,Directa,Lluvia,Pico,Rapida
+San Mateo,Tercer Milenio,11,Baja,Directa,Soleado,Pico,Rapida
+Calle 26,Banderas,7,Baja,Alterna,Lluvia,Pico,Rapida
+Tercer Milenio,Héroes,11,Baja,Alterna,Lluvia,Valle,Rapida
+Universidades,Héroes,9,Baja,Alterna,Nublado,Pico,Rapida
+San Mateo,Suba,9,Baja,Alterna,Nublado,Pico,Rapida
+Calle 72,Suba,9,Baja,Directa,Lluvia,Valle,Rapida
+Héroes,Portal Norte,9,Baja,Alterna,Lluvia,Pico,Rapida
+Universidades,Calle 19,9,Media,Alterna,Nublado,Valle,Rapida
+Calle 26,San Mateo,7,Baja,Directa,Nublado,Valle,Rapida
+Universidades,Calle 26,9,Baja,Directa,Soleado,Valle,Rapida
+Calle 19,Portal Norte,9,Baja,Directa,Nublado,Pico,Rapida
+Suba,San Mateo,8,Baja,Directa,Nublado,Valle,Rapida
+Suba,Calle 72,10,Media,Alterna,Soleado,Valle,Rapida
+Héroes,San Mateo,11,Media,Alterna,Soleado,Pico,Rapida
+Héroes,Banderas,9,Media,Directa,Lluvia,Pico,Rapida
+Universidades,Calle 26,10,Media,Alterna,Nublado,Valle,Rapida
+Tercer Milenio,Universidades,10,Media,Alterna,Lluvia,Pico,Rapida
+Tercer Milenio,Calle 26,8,Baja,Alterna,Lluvia,Valle,Rapida
+Suba,San Mateo,11,Baja,Alterna,Nublado,Valle,Rapida
+Calle 72,San Mateo,9,Baja,Directa,Soleado,Pico,Rapida
+Héroes,Suba,9,Baja,Directa,Lluvia,Valle,Rapida
+Banderas,Portal Norte,7,Baja,Directa,Nublado,Pico,Rapida
+Calle 26,San Mateo,8,Media,Directa,Soleado,Pico,Rapida
+San Mateo,Universidades,11,Media,Alterna,Soleado,Valle,Rapida
+Calle 72,Calle 26,11,Baja,Alterna,Soleado,Pico,Rapida
+Tercer Milenio,Calle 19,11,Baja,Directa,Lluvia,Pico,Rapida
+Tercer Milenio,Banderas,9,Baja,Alterna,Lluvia,Pico,Rapida
+Tercer Milenio,Suba,11,Baja,Alterna,Nublado,Pico,Rapida
+Calle 26,San Mateo,7,Media,Directa,Soleado,Valle,Rapida
+Calle 19,Suba,7,Baja,Directa,Soleado,Pico,Rapida
+Portal Norte,Calle 19,11,Baja,Alterna,Lluvia,Valle,Rapida
+San Mateo,Tercer Milenio,11,Baja,Alterna,Lluvia,Valle,Rapida
+Portal Norte,Calle 19,8,Baja,Alterna,Soleado,Valle,Rapida
+Calle 72,Calle 26,11,Baja,Alterna,Soleado,Valle,Rapida
+Calle 72,San Mateo,8,Baja,Alterna,Nublado,Pico,Rapida
+Héroes,Calle 72,9,Media,Directa,Soleado,Valle,Rapida
+Banderas,San Mateo,9,Baja,Directa,Lluvia,Valle,Rapida
+Tercer Milenio,Calle 19,12,Media,Alterna,Lluvia,Pico,Rapida
+Héroes,Universidades,12,Media,Directa,Soleado,Pico,Rapida
+Universidades,Tercer Milenio,12,Baja,Alterna,Nublado,Pico,Rapida
+Calle 19,Calle 72,18,Baja,Alterna,Lluvia,Pico,Normal
+San Mateo,Banderas,14,Alta,Alterna,Lluvia,Valle,Normal
+Calle 19,Calle 72,19,Baja,Alterna,Lluvia,Pico,Normal
+Universidades,Calle 19,14,Media,Alterna,Soleado,Valle,Normal
+Banderas,Calle 19,19,Alta,Alterna,Lluvia,Pico,Normal
+Banderas,Héroes,20,Alta,Alterna,Soleado,Valle,Normal
+Calle 19,San Mateo,18,Media,Directa,Nublado,Valle,Normal
+Tercer Milenio,Portal Norte,20,Baja,Alterna,Nublado,Pico,Normal
+Portal Norte,Tercer Milenio,16,Alta,Alterna,Nublado,Valle,Normal
+Universidades,Calle 26,20,Media,Alterna,Lluvia,Pico,Normal
+Suba,Tercer Milenio,21,Baja,Alterna,Nublado,Pico,Normal
+Calle 72,Calle 19,19,Alta,Alterna,Nublado,Pico,Normal
+Calle 19,San Mateo,22,Alta,Directa,Soleado,Valle,Normal
+Portal Norte,Calle 19,20,Baja,Alterna,Soleado,Pico,Normal
+Calle 19,Universidades,17,Baja,Alterna,Soleado,Valle,Normal
+Tercer Milenio,Calle 26,17,Baja,Alterna,Lluvia,Pico,Normal
+Calle 26,Banderas,17,Alta,Directa,Nublado,Pico,Normal
+Banderas,Universidades,22,Alta,Alterna,Soleado,Valle,Normal
+Héroes,Calle 26,20,Media,Directa,Nublado,Pico,Normal
+Calle 19,Calle 72,16,Baja,Alterna,Lluvia,Valle,Normal
+San Mateo,Héroes,18,Baja,Directa,Lluvia,Pico,Normal
+Universidades,Suba,19,Baja,Directa,Soleado,Valle,Normal
+Calle 19,Universidades,18,Alta,Directa,Soleado,Pico,Normal
+Héroes,Calle 19,21,Media,Alterna,Nublado,Valle,Normal
+San Mateo,Calle 72,20,Alta,Directa,Nublado,Pico,Normal
+Suba,Portal Norte,19,Media,Directa,Soleado,Pico,Normal
+Suba,San Mateo,21,Media,Alterna,Soleado,Pico,Normal
+Calle 26,Tercer Milenio,18,Baja,Alterna,Nublado,Pico,Normal
+Universidades,Tercer Milenio,22,Alta,Alterna,Nublado,Pico,Normal
+Calle 26,Banderas,17,Baja,Alterna,Soleado,Valle,Normal
+Héroes,Calle 19,14,Baja,Alterna,Nublado,Valle,Normal
+Suba,Portal Norte,16,Baja,Directa,Soleado,Valle,Normal
+Suba,Universidades,14,Baja,Alterna,Lluvia,Pico,Normal
+Calle 19,Calle 26,21,Baja,Directa,Soleado,Valle,Normal
+San Mateo,Banderas,22,Baja,Directa,Soleado,Valle,Normal
+San Mateo,Héroes,21,Alta,Directa,Lluvia,Valle,Normal
+Calle 72,Calle 26,18,Baja,Alterna,Nublado,Pico,Normal
+Suba,San Mateo,22,Alta,Alterna,Nublado,Valle,Normal
+Banderas,Calle 19,14,Alta,Alterna,Lluvia,Pico,Normal
+Tercer Milenio,Banderas,17,Media,Alterna,Lluvia,Valle,Normal
+Portal Norte,Calle 72,17,Alta,Directa,Lluvia,Pico,Normal
+Suba,Banderas,17,Alta,Alterna,Soleado,Pico,Normal
+Universidades,Banderas,13,Baja,Directa,Nublado,Pico,Normal
+Banderas,Tercer Milenio,15,Media,Directa,Lluvia,Pico,Normal
+Calle 26,San Mateo,17,Media,Alterna,Soleado,Valle,Normal
+Héroes,Calle 19,16,Media,Directa,Soleado,Pico,Normal
+San Mateo,Héroes,13,Media,Alterna,Soleado,Pico,Normal
+Universidades,Banderas,20,Baja,Alterna,Lluvia,Valle,Normal
+Suba,Tercer Milenio,14,Media,Alterna,Soleado,Valle,Normal
+Tercer Milenio,Calle 26,15,Baja,Directa,Lluvia,Valle,Normal
+Héroes,Banderas,35,Media,Alterna,Lluvia,Valle,Demorado
+San Mateo,Calle 72,30,Alta,Alterna,Lluvia,Pico,Demorado
+Tercer Milenio,Héroes,30,Alta,Alterna,Soleado,Pico,Demorado
+Banderas,Suba,30,Media,Alterna,Nublado,Pico,Demorado
+Portal Norte,Tercer Milenio,28,Media,Directa,Nublado,Valle,Demorado
+Suba,Calle 26,23,Alta,Directa,Nublado,Valle,Demorado
+Calle 19,Héroes,34,Media,Directa,Soleado,Valle,Demorado
+Banderas,Calle 72,23,Media,Directa,Soleado,Pico,Demorado
+Calle 72,San Mateo,25,Media,Alterna,Lluvia,Pico,Demorado
+Calle 26,Calle 72,23,Media,Directa,Nublado,Valle,Demorado
+Tercer Milenio,Calle 19,31,Alta,Alterna,Soleado,Valle,Demorado
+Suba,San Mateo,30,Alta,Alterna,Lluvia,Valle,Demorado
+Tercer Milenio,Universidades,31,Media,Directa,Lluvia,Pico,Demorado
+Suba,Portal Norte,33,Alta,Alterna,Soleado,Pico,Demorado
+Suba,Calle 19,32,Alta,Directa,Lluvia,Valle,Demorado
+Portal Norte,Calle 19,29,Alta,Directa,Lluvia,Valle,Demorado
+Portal Norte,Héroes,25,Alta,Directa,Nublado,Pico,Demorado
+Calle 72,Universidades,30,Media,Alterna,Nublado,Valle,Demorado
+San Mateo,Portal Norte,33,Alta,Directa,Lluvia,Pico,Demorado
+San Mateo,Tercer Milenio,23,Alta,Alterna,Nublado,Valle,Demorado
+Banderas,San Mateo,29,Media,Directa,Lluvia,Valle,Demorado
+Héroes,Tercer Milenio,23,Media,Alterna,Lluvia,Valle,Demorado
+Héroes,Suba,35,Media,Alterna,Nublado,Valle,Demorado
+Calle 72,Universidades,29,Media,Directa,Soleado,Pico,Demorado
+Calle 26,Calle 19,32,Media,Alterna,Lluvia,Pico,Demorado
+Calle 19,Portal Norte,32,Alta,Alterna,Nublado,Valle,Demorado
+Suba,Héroes,33,Media,Alterna,Soleado,Pico,Demorado
+Portal Norte,Banderas,23,Media,Alterna,Soleado,Pico,Demorado
+Héroes,Suba,28,Alta,Alterna,Soleado,Valle,Demorado
+Suba,Portal Norte,25,Media,Alterna,Lluvia,Valle,Demorado
+Héroes,Tercer Milenio,24,Alta,Directa,Soleado,Valle,Demorado
+Héroes,Universidades,23,Media,Directa,Nublado,Valle,Demorado
+Calle 72,Calle 26,30,Alta,Directa,Lluvia,Pico,Demorado
+Héroes,Universidades,30,Media,Directa,Soleado,Pico,Demorado
+Universidades,Suba,23,Media,Alterna,Nublado,Valle,Demorado
+Tercer Milenio,Calle 26,31,Media,Alterna,Nublado,Pico,Demorado
+Tercer Milenio,Héroes,26,Alta,Alterna,Soleado,Pico,Demorado
+Portal Norte,Suba,34,Alta,Directa,Soleado,Pico,Demorado
+Calle 19,Banderas,35,Alta,Alterna,Nublado,Pico,Demorado
+San Mateo,Banderas,24,Alta,Alterna,Nublado,Pico,Demorado
+Universidades,Calle 72,34,Alta,Directa,Nublado,Valle,Demorado
+Tercer Milenio,San Mateo,28,Alta,Directa,Nublado,Valle,Demorado
+Calle 26,Suba,35,Media,Directa,Nublado,Pico,Demorado
+Calle 72,Universidades,25,Media,Directa,Lluvia,Valle,Demorado
+Universidades,Portal Norte,24,Alta,Alterna,Soleado,Valle,Demorado
+San Mateo,Banderas,33,Media,Directa,Lluvia,Valle,Demorado
+Héroes,Calle 72,23,Alta,Alterna,Nublado,Valle,Demorado
+Héroes,Calle 26,34,Alta,Alterna,Soleado,Valle,Demorado
+Calle 19,Héroes,25,Alta,Directa,Lluvia,Pico,Demorado
+Universidades,San Mateo,35,Media,Alterna,Soleado,Valle,Demorado
